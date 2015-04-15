@@ -1,9 +1,8 @@
 body{
 	margin:0 auto;
-	width:700px;
-	height:1000px;
+	width:800px;
+	height:1700px;
 }
-
 
 
 h1{
@@ -17,14 +16,14 @@ h1{
 	border:1px solid #BBBBBB;
 	margin:0 auto;
 	padding:20px;
-	width:660px;	
+	width:760px;	
 	background-color: #5677FC; 	
 }
 
 #divMain{
 	margin:0 auto;
 	padding:20px;
-	width:660px;
-	height:700px;
+	width:760px;
+	height:1500px;
 	border:1px solid #AAAAAA;
 }
