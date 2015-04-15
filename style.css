@@ -1,0 +1,30 @@
+body{
+	margin:0 auto;
+	width:700px;
+	height:1000px;
+}
+
+
+
+h1{
+	margin:0;
+	padding:0;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#divHeader{
+	border:1px solid #BBBBBB;
+	margin:0 auto;
+	padding:20px;
+	width:660px;	
+	background-color: #5677FC; 	
+}
+
+#divMain{
+	margin:0 auto;
+	padding:20px;
+	width:660px;
+	height:700px;
+	border:1px solid #AAAAAA;
+}
