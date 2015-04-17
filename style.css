@@ -1,7 +1,7 @@
 body{
 	margin:0 auto;
 	width:800px;
-	height:1700px;
+	height:2100px;
 }
 
 
@@ -12,6 +12,15 @@ h1{
 	color:#FFFFFF;
 }
 
+h2{
+	margin:0;
+	padding:0;
+}
+
+li{
+	margin-bottom:10px;
+}
+
 #divHeader{
 	border:1px solid #BBBBBB;
 	margin:0 auto;
@@ -20,10 +29,17 @@ h1{
 	background-color: #5677FC; 	
 }
 
+#divProfile{
+	margin:0 auto;
+	padding:20px;
+	width:760px;
+	border:1px solid #AAAAAA;
+}
+
 #divMain{
 	margin:0 auto;
 	padding:20px;
 	width:760px;
-	height:1500px;
+	height:1800px;
 	border:1px solid #AAAAAA;
 }
