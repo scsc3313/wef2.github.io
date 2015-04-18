@@ -1,45 +1,60 @@
-body{
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+
+body{	
+	font-family:'Nanum Pen Script',serif;
 	margin:0 auto;
-	width:800px;
-	height:2100px;
+	width:900px;
+	height:2200px;
 }
 
 
-h1{
+h1{	
+	font-size:60px;
 	margin:0;
 	padding:0;
 	text-align: center;
 	color:#FFFFFF;
 }
 
-h2{
-	margin:0;
+h2{	
+	margin:0px 0px 20px 0px;	
+	text-align: center;
+	font-size:45px;		
 	padding:0;
 }
 
 li{
+	list-style-type: circle;
+	font-size:30px;
 	margin-bottom:10px;
+}
+
+p{
+	float:right;
+	margin:5px;
 }
 
 #divHeader{
 	border:1px solid #BBBBBB;
 	margin:0 auto;
 	padding:20px;
-	width:760px;	
+	width:860px;	
 	background-color: #5677FC; 	
 }
 
 #divProfile{
 	margin:0 auto;
 	padding:20px;
-	width:760px;
+	width:860px;
 	border:1px solid #AAAAAA;
 }
 
-#divMain{
+#divMain{	
+	font-size:25px;
 	margin:0 auto;
 	padding:20px;
-	width:760px;
-	height:1800px;
+	width:860px;
+	height:1900px;
 	border:1px solid #AAAAAA;
+	background-color: #EFFFFF;
 }
