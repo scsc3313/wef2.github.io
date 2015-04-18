@@ -11,7 +11,9 @@
 * **제주대학교 컴퓨터공학과** 재학
 * **Github Page** : [https://github.com/Wef2](https://github.com/Wef2).
 * E-Mail Address : qhrud5725@hanmail.net
-* **[HTML로 작성한 페이지](https://wef2.github.io).**
+* _[HTML로 작성한 페이지](https://wef2.github.io)._
+
+
 ---
 
 ##자기 소개서
