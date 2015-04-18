@@ -9,7 +9,6 @@
 * 취미 : 영화 감상 / 축구
 * 대기고등학교 졸업
 * **제주대학교 컴퓨터공학과** 재학
-* **Github Page** : [http://github.com/Wef2](https://github.com/Wef2).
 * E-Mail Address : qhrud5725@hanmail.net
 * _[HTML로 작성한 페이지](http://wef2.github.io)._ 
 
