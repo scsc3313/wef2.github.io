@@ -9,10 +9,11 @@
 * 취미 : 영화 감상 / 축구
 * 대기고등학교 졸업
 * **제주대학교 컴퓨터공학과** 재학
-* E-Mail Address : qhrud5725@hanmail.net
 * _[HTML로 작성한 페이지](http://wef2.github.io)._ 
 
+##Contact
 
+[![Alt text](/images/mail.png)](qhrud5725@hanmail.net).
 [![Alt text](/images/github.gif)](http://github.com/Wef2/).
 [![Alt text](/images/facebook.png)](http://www.facebook.com/hungryhae).
 [![Alt text](/images/watcha.png)](http://watcha.net/users/rvkIDxMIpCSY).
