@@ -17,6 +17,17 @@
 [![Alt text](/images/facebook.png)](http://www.facebook.com/hungryhae).
 [![Alt text](/images/watcha.png)](http://watcha.net/users/rvkIDxMIpCSY).
 
+##Language
+
+* C
+* C++
+* C#
+* Java
+* Android
+* HTML
+* CSS
+* JavaScript
+
 ---
 
 ##자기 소개서
