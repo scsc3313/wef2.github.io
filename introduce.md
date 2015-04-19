@@ -13,7 +13,7 @@
 
 ##Contact
 
-[![Alt text](/images/mail.png)](qhrud5725@hanmail.net).
+[![Alt text](/images/mail.png)](mailto:qhrud5725@hanmail.net).
 [![Alt text](/images/github.gif)](http://github.com/Wef2/).
 [![Alt text](/images/facebook.png)](http://www.facebook.com/hungryhae).
 [![Alt text](/images/watcha.png)](http://watcha.net/users/rvkIDxMIpCSY).
